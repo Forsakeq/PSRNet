@@ -1,9 +1,3 @@
-# PSRNet.py
-# PSRNet with:
-#   1) GT-guided physical slice routing
-#   2) Tri-modal hyperedge fusion
-#   3) Euler-Elastica Boundary Evolution Module (scheme A)
-
 import os
 import math
 from typing import Tuple
